@@ -1,1 +1,0 @@
-# gmf-timeseries-portfolio-management
